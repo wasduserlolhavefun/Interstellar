@@ -5,5 +5,8 @@ const config = {
     interstellar: "password",
   },
 };
-
+git clone --branch Ad-Free https://github.com/UseInterstellar/Interstellar
+cd Interstellar
+bun i
+bun start
 export default config;
